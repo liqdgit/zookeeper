@@ -7,8 +7,8 @@ import java.io.Serializable;
  * <p>Description TODO </p>
  * <p>Company:    李清栋 </p>
  *
- * @Author         <a href="liqingdong"/>李清栋</a>
- * @CreateDate     2017/9/29 11:00
+ * @author <a href="liqingdong"/>李清栋</a>
+ * @CreateDate 2017/9/29 11:00
  */
 public class DemoBean implements Serializable {
 

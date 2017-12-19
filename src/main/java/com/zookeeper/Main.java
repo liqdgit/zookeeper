@@ -35,7 +35,6 @@ public class Main {
 //        System.out.println(str);
 
 
-
 //        connectString = "127.0.0.1:2182";
 //        client = CuratorFrameworkFactory.newClient(connectString, retryPolicy);
 //        client.start();

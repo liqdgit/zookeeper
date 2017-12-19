@@ -10,7 +10,7 @@ import org.apache.curator.retry.ExponentialBackoffRetry;
  * <p>Description CuratorFramework 工厂类 </p>
  * <p>Company:    李清栋 </p>
  *
- * @Author <a href="liqingdong"/>李清栋</a>
+ * @author <a href="liqingdong"/>李清栋</a>
  * @CreateDate 2017/9/29 14:36
  */
 public class CuratorFactory {
@@ -66,7 +66,7 @@ public class CuratorFactory {
     }
 
     public static void close() {
-        if (client != null){
+        if (client != null) {
             client.close();
         }
     }
